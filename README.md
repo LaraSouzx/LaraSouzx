@@ -16,7 +16,7 @@
  
 <div> 
  <a href = "mailto:larasouzadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lara-souza-montenegro" target="_blank">
+  <a href="https://www.linkedin.com/in/lara-souza-montenegro" target="_blank"></a>
  
 </div>
 

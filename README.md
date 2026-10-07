@@ -2,7 +2,7 @@
 
 # Oii, eu sou a Lara Souza 👋
 
-**Desenvolvedora Web e Mobile | Estudante de Ciência da Computação**
+**Engenheira de Software | Mobile e automações com IA**
 
 <a href="mailto:larasouzadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/lara-souza-montenegro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -14,11 +14,9 @@
 
 ## 🧭 Sobre mim
 
-Sou desenvolvedora web e mobile, com foco em aplicações com React, React Native/Expo e TypeScript, usando Supabase como banco de dados e back-end.
-
-Meu trabalho recente inclui sites para clientes, automações com n8n e soluções na nuvem com Azure, além de projetos sociais, como o sistema de gestão financeira que criei para uma instituição de acolhimento.
-
-Tenho particular interesse em como uma boa solução tecnológica pode resolver problemas reais e facilitar a vida das pessoas.
+Sou engenheira de software, com experiência em aplicativos mobile, sites e automações com IA.
+Meu trabalho recente inclui apps publicados na Play Store e na App Store, sites e e-commerces para pequenos negócios, automações com n8n e IA, e um sistema de gestão financeira que criei para uma instituição de acolhimento, usado hoje pela administração.
+Gosto de ver uma boa solução tecnológica resolver problemas reais e facilitar a vida das pessoas.
 
 💡 *Quer trocar uma ideia ou tem um problema para resolver? Vamos conversar!*
 
